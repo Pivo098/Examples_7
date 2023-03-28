@@ -1,0 +1,15 @@
+C:\Users\Кассовый ПК\Desktop\Иван\Examples_7\Examples_7\Examples\Example_07\bin\Debug\net6.0\Example_07.exe
+C:\Users\Кассовый ПК\Desktop\Иван\Examples_7\Examples_7\Examples\Example_07\bin\Debug\net6.0\Example_07.deps.json
+C:\Users\Кассовый ПК\Desktop\Иван\Examples_7\Examples_7\Examples\Example_07\bin\Debug\net6.0\Example_07.runtimeconfig.json
+C:\Users\Кассовый ПК\Desktop\Иван\Examples_7\Examples_7\Examples\Example_07\bin\Debug\net6.0\Example_07.dll
+C:\Users\Кассовый ПК\Desktop\Иван\Examples_7\Examples_7\Examples\Example_07\bin\Debug\net6.0\Example_07.pdb
+C:\Users\Кассовый ПК\Desktop\Иван\Examples_7\Examples_7\Examples\Example_07\obj\Debug\net6.0\Example_07.csproj.AssemblyReference.cache
+C:\Users\Кассовый ПК\Desktop\Иван\Examples_7\Examples_7\Examples\Example_07\obj\Debug\net6.0\Example_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кассовый ПК\Desktop\Иван\Examples_7\Examples_7\Examples\Example_07\obj\Debug\net6.0\Example_07.AssemblyInfoInputs.cache
+C:\Users\Кассовый ПК\Desktop\Иван\Examples_7\Examples_7\Examples\Example_07\obj\Debug\net6.0\Example_07.AssemblyInfo.cs
+C:\Users\Кассовый ПК\Desktop\Иван\Examples_7\Examples_7\Examples\Example_07\obj\Debug\net6.0\Example_07.csproj.CoreCompileInputs.cache
+C:\Users\Кассовый ПК\Desktop\Иван\Examples_7\Examples_7\Examples\Example_07\obj\Debug\net6.0\Example_07.dll
+C:\Users\Кассовый ПК\Desktop\Иван\Examples_7\Examples_7\Examples\Example_07\obj\Debug\net6.0\refint\Example_07.dll
+C:\Users\Кассовый ПК\Desktop\Иван\Examples_7\Examples_7\Examples\Example_07\obj\Debug\net6.0\Example_07.pdb
+C:\Users\Кассовый ПК\Desktop\Иван\Examples_7\Examples_7\Examples\Example_07\obj\Debug\net6.0\Example_07.genruntimeconfig.cache
+C:\Users\Кассовый ПК\Desktop\Иван\Examples_7\Examples_7\Examples\Example_07\obj\Debug\net6.0\ref\Example_07.dll

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RabBoji'\\Desktop\\Ex7\\Examples\\Example_06\\Example_06.csproj": {}
+    "C:\\Users\\Кассовый ПК\\Desktop\\Иван\\Examples_7\\Examples_7\\Examples\\Example_06\\Example_06.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RabBoji'\\Desktop\\Ex7\\Examples\\Example_06\\Example_06.csproj": {
+    "C:\\Users\\Кассовый ПК\\Desktop\\Иван\\Examples_7\\Examples_7\\Examples\\Example_06\\Example_06.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RabBoji'\\Desktop\\Ex7\\Examples\\Example_06\\Example_06.csproj",
+        "projectUniqueName": "C:\\Users\\Кассовый ПК\\Desktop\\Иван\\Examples_7\\Examples_7\\Examples\\Example_06\\Example_06.csproj",
         "projectName": "Example_06",
-        "projectPath": "C:\\Users\\RabBoji'\\Desktop\\Ex7\\Examples\\Example_06\\Example_06.csproj",
-        "packagesPath": "C:\\Users\\RabBoji'\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RabBoji'\\Desktop\\Ex7\\Examples\\Example_06\\obj\\",
+        "projectPath": "C:\\Users\\Кассовый ПК\\Desktop\\Иван\\Examples_7\\Examples_7\\Examples\\Example_06\\Example_06.csproj",
+        "packagesPath": "C:\\Users\\Кассовый ПК\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Кассовый ПК\\Desktop\\Иван\\Examples_7\\Examples_7\\Examples\\Example_06\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\RabBoji'\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Кассовый ПК\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     }
